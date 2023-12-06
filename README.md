@@ -5,13 +5,14 @@ Welcome to my coding playground! 🚀✨
 ### About Me
 - 👨‍🔧 Mechanical Engineer turned passionate Fullstack Developer with a focus on Frontend.
 - 🌐 Began learning software development in parallel with engineering studies.
-- 🛠 Integrated software knowledge, including Arduino, into various engineering projects.
-- 🚀 Initiated my software journey with tools like Arduino, incorporating them into university projects.
+- ⚙️ Discovered the joy of coding and creating with Arduino, sparking my love for software development.
+- 🛠 Integrated Arduino into various projects, including my university final project.
+- 🚀 Found satisfaction in turning innovative ideas into tangible, functioning solutions.
 
-### Frontend Development
-- 🎨 Enhanced frontend skills with languages like HTML, CSS, JS, developing various web page projects.
-- 🎨 Delved into UI design with Adobe XD, mastering UI/UX principles for impactful frontend projects.
-- 🖌 Explored Adobe Photoshop and Premiere to create valuable resources for projects.
+### Software Learning Journey
+- 🌐 Continuously expanded my skills, delving into languages like HTML, CSS, JS for frontend development.
+- 🎨 Explored UI design with Adobe XD, mastering UI/UX principles for impactful frontend projects.
+- 🖌 Leveraged Adobe Photoshop and Premiere to create compelling visuals and resources.
   
 ### Fullstack Development
 - 🌐 Pursued backend technologies through the Bilge Adam Boost Star Developer program.
