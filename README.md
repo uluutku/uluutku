@@ -35,7 +35,7 @@ Welcome to my coding playground! 🚀✨
   "databases": ["Microsoft SQL Server"],
   "tools": ["Visual Studio Code", "Git"],
   "design": ["Adobe XD", "Adobe Photoshop", "Adobe Premiere"],
-  "ai_tools": ["Stable Diffusion, Dall-E, Midjourney, RVC, ChatGPT, Bard, XTTS, Training and Using Different LLM Models"],
+  "ai_tools": ["Stable Diffusion, Dall-E, Midjourney, RVC, ChatGPT, Bard, XTTS, Copilot, Training and Using Different LLM Models"],
 }
 ```
 
