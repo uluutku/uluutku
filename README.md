@@ -35,8 +35,7 @@ Welcome to my coding playground! 🚀✨
   "databases": ["Microsoft SQL Server"],
   "tools": ["Visual Studio Code", "Git"],
   "design": ["Adobe XD", "Adobe Photoshop", "Adobe Premiere"],
-  "ai_tools": ["Stable Diffusion, Dall-E, Midjourney, RVC, ChatGPT, Bard, XTTS"],
-  "game_dev": ["Unity"]
+  "ai_tools": ["Stable Diffusion, Dall-E, Midjourney, RVC, ChatGPT, Bard, XTTS, Training and Using Different LLM Models"],
 }
 ```
 
@@ -46,7 +45,8 @@ Welcome to my coding playground! 🚀✨
 
 ### Fun Facts
 - 🌌 When not coding, I'm exploring the intersections of AI and creativity.
-- 🕹️ Passionate about small game development, turning ideas into interactive experiences.
+- 🚀 I always follow the latest AI developments and experiment with the newest tools, including staying on top of prompt engineering techniques, to ensure I stay at the forefront of the ever-evolving AI landscape.
+- 🕹️ Interested in game development with Unity, turning ideas into interactive experiences.
 
 ### Let's Connect!
 - 📫 Reach out to me: [via Email](mailto:utkuulu01@gmail.com)
