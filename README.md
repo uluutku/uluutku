@@ -39,10 +39,6 @@ Welcome to my coding playground! 🚀✨
 }
 ```
 
-### Learning Journey
-- 🚀 Continuously enhancing skills in frontend (HTML, CSS, JavaScript, React) and backend technologies.
-- 🎓 Completed the BilgeAdam Boost Yıldız Yazılımcı Yetiştirme eğitimi, gaining insights into C#, .NET Core, SQL, and more.
-
 ### Fun Facts
 - 🌌 When not coding, I'm exploring the intersections of AI and creativity.
 - 🚀 I always follow the latest AI developments and experiment with the newest tools, including staying on top of prompt engineering techniques, to ensure I stay at the forefront of the ever-evolving AI landscape.
