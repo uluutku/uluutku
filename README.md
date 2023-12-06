@@ -16,8 +16,8 @@ Welcome to my coding playground! 🚀✨
   
 ### Fullstack Development
 - 🌐 Pursued backend technologies through the Bilge Adam Boost Star Developer program.
+- 🖥 Acquired knowledge in C#, .NET Framework, ASP.NET MVC, Git, OOP, ORM and MSSQL.
 - 🚀 Currently developing projects, combining design and frontend skills with backend expertise.
-- 🖥 Acquired knowledge in C#, .NET Framework, OOP, ORM and SQL.
   
 ### Constant Adaptation
 - 🚀 Passionate about staying on the cutting edge of technology in the ever-evolving development landscape.
