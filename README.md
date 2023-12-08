@@ -21,7 +21,6 @@ Welcome to my coding playground! 🚀✨
   
 ### Constant Adaptation
 - 🚀 Passionate about staying on the cutting edge of technology in the ever-evolving development landscape.
-- 🎮 Enthusiastic about indie game development with Unity.
 - 🤖 Deeply fascinated by Machine Learning and Generative AI; always exploring the latest tools and projects.
 - 🧠 Through project experiences, strive to adapt and develop with new technologies every day.
 
