@@ -31,14 +31,14 @@ Welcome to my coding playground! 🚀✨
 ```json
 {
   "languages": ["HTML", "CSS", "JavaScript", "C#", "Python"],
-  "frontend_libraries": ["React.js", ],
+  "frontend_libraries": ["React.js", "Material UI", "Redux"],
   "backend_frameworks": [".NET Core", "ASP.NET MVC"],
   "orm": ["Entity Framework Core"],
   "databases": ["Microsoft SQL Server"],
   "tools": ["Visual Studio Code", "Git"],
   "design": ["Adobe XD", "Adobe Photoshop", "Adobe Premiere"],
-  "ai_tools": ["Stable Diffusion, Stable Cascade, Dall-E, Midjourney, RVC, XTTS "],
-  "LLM_models": ["LLama2, Stable LM, Mixtral, GPT4, Gemini, Grok, Coral"],
+  "ai_tools": ["Stable Diffusion", "Stable Cascade", "Dall-E", "Midjourney", "RVC", "XTTS"],
+  "LLM_models": ["LLama2", "Stable LM", "Mixtral", "GPT", "Gemini", "Grok", "Coral"]
 
 }
 ```
