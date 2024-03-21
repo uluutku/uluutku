@@ -19,29 +19,29 @@ Welcome to my coding playground! 🚀✨
 - 🖥 Acquired knowledge in C#, .NET Framework, ASP.NET MVC, Git, OOP, ORM and MSSQL.
 - 🚀 Currently developing projects, combining design and frontend skills with backend expertise.
   
-### Constant Adaptation
+### Constant Adaptation & AI
 - 🚀 Passionate about staying on the cutting edge of technology in the ever-evolving development landscape.
 - 🤖 Deeply fascinated by Machine Learning and Generative AI; always exploring the latest tools and projects.
 - 🧠 Through project experiences, strive to adapt and develop with new technologies every day.
+- 🌌 When not coding, I'm exploring the intersections of AI and creativity.
+- 🚀 I always follow the latest AI developments and experiment with the newest tools, including staying on top of prompt engineering techniques, to ensure I stay at the forefront of the ever-evolving AI landscape.
+- 🕹️ Interested in game development with Unity, turning ideas into interactive experiences.
 
 ### Tech Stack
 ```json
 {
   "languages": ["HTML", "CSS", "JavaScript", "C#", "Python"],
-  "frontend_frameworks": ["React"],
+  "frontend_libraries": ["React.js", ],
   "backend_frameworks": [".NET Core", "ASP.NET MVC"],
   "orm": ["Entity Framework Core"],
   "databases": ["Microsoft SQL Server"],
   "tools": ["Visual Studio Code", "Git"],
   "design": ["Adobe XD", "Adobe Photoshop", "Adobe Premiere"],
-  "ai_tools": ["Stable Diffusion, Dall-E, Midjourney, RVC, ChatGPT, Bard, XTTS, Copilot, Training and Using Different LLM Models"],
+  "ai_tools": ["Stable Diffusion, Stable Cascade, Dall-E, Midjourney, RVC, XTTS "],
+  "LLM_models": ["LLama2, Stable LM, Mixtral, GPT4, Gemini, Grok, Coral"],
+
 }
 ```
-
-### Fun Facts
-- 🌌 When not coding, I'm exploring the intersections of AI and creativity.
-- 🚀 I always follow the latest AI developments and experiment with the newest tools, including staying on top of prompt engineering techniques, to ensure I stay at the forefront of the ever-evolving AI landscape.
-- 🕹️ Interested in game development with Unity, turning ideas into interactive experiences.
 
 ### Let's Connect!
 - 📫 Reach out to me: [via Email](mailto:utkuulu01@gmail.com)
