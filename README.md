@@ -25,7 +25,6 @@ Welcome to my coding playground! 🚀✨
 - 🧠 Through project experiences, strive to adapt and develop with new technologies every day.
 - 🌌 When not coding, I'm exploring the intersections of AI and creativity.
 - 🚀 I always follow the latest AI developments and experiment with the newest tools, including staying on top of prompt engineering techniques, to ensure I stay at the forefront of the ever-evolving AI landscape.
-- 🕹️ Interested in game development with Unity, turning ideas into interactive experiences.
 
 ### Tech Stack
 ```json
