@@ -37,7 +37,7 @@ Welcome to my coding playground! 🚀✨
   "tools": ["Visual Studio Code", "Git"],
   "design": ["Adobe XD", "Adobe Photoshop", "Adobe Premiere"],
   "ai_tools": ["Stable Diffusion", "Stable Cascade", "Dall-E", "Midjourney", "RVC", "XTTS"],
-  "LLM_models": ["LLama2", "Stable LM", "Mixtral", "GPT", "Gemini", "Grok", "Coral"]
+  "llm_models": ["LLama2", "Stable LM", "Mixtral", "GPT", "Gemini", "Grok", "Coral"]
 
 }
 ```
