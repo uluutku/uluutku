@@ -30,7 +30,7 @@ Welcome to my coding playground! 🚀✨
 ```json
 {
   "languages": ["HTML", "CSS", "JavaScript", "C#", "Python"],
-  "frontend_libraries": ["React.js", "Material UI", "Redux"],
+  "frontend_libraries": ["React.js", "Material UI", "Redux" , "JSON-Server"],
   "backend_frameworks": [".NET Core", "ASP.NET MVC"],
   "orm": ["Entity Framework Core"],
   "databases": ["Microsoft SQL Server"],
