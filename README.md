@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Utku – Frontend Enthusiast with Backend Know-how, and AI Explorer!
+# 👋 Hey there, I'm Utku – Frontend Enthusiast and AI Explorer!
 
 Welcome to my coding playground! 🚀✨
 
