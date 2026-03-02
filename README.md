@@ -22,32 +22,32 @@
 
 ### Flagship Apps
 
-- 🐾 **PawPicker** - Can't choose from a pile of images? Pick between two at a time, and PawPicker ranks them for you. Web app + [Android app on Google Play](https://play.google.com/store/apps/details?id=com.pawpicker&hl=tr). | [Web Repo](https://github.com/uluutku/PawPicker)
-- 💬 **RabbitChat** - Full WhatsApp clone with end-to-end encryption, profiles, image & voice messaging, Supabase backend. *(private repo)*
-- 📺 **RabbitFeed** - YouTube Shorts / Instagram Reels-style infinite-scroll short video platform. Full streaming backend, auth, admin panel, and moderation flows. *(private repo)*
-- 👗 **RabbitsWardrobe** - Mobile wardrobe management app - catalog your clothes with photos, build a virtual closet, and plan tomorrow's outfit. *(private repo, deployment in progress)*
+-  **PawPicker** - Can't choose from a pile of images? Pick between two at a time, and PawPicker ranks them for you. Web app + [Android app on Google Play](https://play.google.com/store/apps/details?id=com.pawpicker&hl=tr). | [Web Repo](https://github.com/uluutku/PawPicker)
+-  **RabbitChat** - Full WhatsApp clone with end-to-end encryption, profiles, image & voice messaging, Supabase backend. *(private repo)*
+-  **RabbitFeed** - YouTube Shorts / Instagram Reels-style infinite-scroll short video platform. Full streaming backend, auth, admin panel, and moderation flows. *(private repo)*
+-  **RabbitsWardrobe** - Mobile wardrobe management app - catalog your clothes with photos, build a virtual closet, and plan tomorrow's outfit. *(private repo, deployment in progress)*
 
 ### More RabbitWiz Apps
 
-- 🎲 **[dicesnrabbits](https://github.com/uluutku/dicesnrabbits)** - Online card/dice browser game
-- 🎬 **[RabbitFlix](https://github.com/uluutku/RabbitFlix)** - Movie & series browser powered by TMDB API
-- 🔍 **[Carroot](https://github.com/uluutku/Carroot)** - Google-like search engine concept
-- 🎯 **[CarrotCrossroads](https://github.com/uluutku/CarrotCrossroads)** - Browser life sim - make choices each year, manage stats, try not to die
-- 🍔 **[CarrotCritiques](https://github.com/uluutku/CarrotCritiques)** - Rate your food delivery orders so you remember what to reorder (and what to avoid)
+-  **[dicesnrabbits](https://github.com/uluutku/dicesnrabbits)** - Online card/dice browser game
+-  **[RabbitFlix](https://github.com/uluutku/RabbitFlix)** - Movie & series browser powered by TMDB API
+-  **[Carroot](https://github.com/uluutku/Carroot)** - Google-like search engine concept
+-  **[CarrotCrossroads](https://github.com/uluutku/CarrotCrossroads)** - Browser life sim - make choices each year, manage stats, try not to die
+-  **[CarrotCritiques](https://github.com/uluutku/CarrotCritiques)** - Rate your food delivery orders so you remember what to reorder (and what to avoid)
 
-## 🤖 AI & Machine Learning
+##  AI & Machine Learning
 
-- 🧠 **Local LLM + RAG Systems** - Fully local LLM setups with retrieval-augmented generation, fine-tuned for domain-specific topics. *(private repos)*
-- 👁️ **YOLO Computer Vision** - Custom object detection models trained from scratch using YOLO. *(private repos)*
-- 🔗 **LLM API Integrations** - Various projects built on top of LLM APIs (OpenRouter, etc.) for different use cases. *(private repos)*
+-  **Local LLM + RAG Systems** - Fully local LLM setups with retrieval-augmented generation, fine-tuned for domain-specific topics. *(private repos)*
+-  **Computer Vision** - Custom object detection models trained from scratch using YOLO. *(private repos)*
+-  **LLM API Integrations** - Various projects built on top of LLM APIs (OpenRouter, etc.) for different use cases. *(private repos)*
 
-## 🛠️ Developer Tools & Standalone
+##  Developer Tools & Standalone
 
-- 🧪 **API Tester** - Postman-like tool with automated testing, load testing, payload diff detection, response normalization, and change logging. *(private repo)*
-- ⚙️ **[ViteKickstarter](https://github.com/uluutku/ViteKickstarter)** - Node-scripted React project scaffolder - auto-creates, installs packages, applies defaults
-- 📦 **[ViteBacker](https://github.com/uluutku/ViteBacker)** - Cleans node_modules and zips your project for quick backups without Git
+-  **API Tester** - Postman-like tool with automated testing, load testing, payload diff detection, response normalization, and change logging. *(private repo)*
+-  **[ViteKickstarter](https://github.com/uluutku/ViteKickstarter)** - Node-scripted React project scaffolder - auto-creates, installs packages, applies defaults
+-  **[ViteBacker](https://github.com/uluutku/ViteBacker)** - Cleans node_modules and zips your project for quick backups without Git
 
-## 💼 Client Work
+##  Client Work
 
 Built websites and web apps for clients including big media studios and businesses. *(private/closed-source)*
 
