@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-> Mechanical engineer who traded gears for code. Building a unified product ecosystem under one design language, training CV models from scratch, running local LLMs with RAG, and shipping apps to the Play Store.
+>  Building a unified product ecosystem under one design language, training CV models from scratch, running local LLMs with RAG, and shipping apps to the Play Store.
 
 ## 🐇 RabbitWiz - My Product Ecosystem
 
