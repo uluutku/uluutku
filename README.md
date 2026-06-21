@@ -37,7 +37,8 @@ React and .NET for shipping AI into real applications.
 ## Side projects
 
 RabbitWiz ([rabbitwiz.com](https://rabbitwiz.com)) is a small family of web and mobile apps I build
-under one brand, one of them live on the Play Store.
+under one brand. One of them, [PawPicker](https://play.google.com/store/apps/details?id=com.pawpicker),
+is live on Google Play.
 
 ## Contact
 
