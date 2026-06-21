@@ -1,40 +1,38 @@
 # Utku Ulu
 
-AI Engineer at BosphorusISS, based in Istanbul. I build production machine learning systems in
-computer vision, LLM and RAG applications, and probabilistic modeling, then take them from research
-to a deployed service.
+AI Engineer at BosphorusISS, based in Istanbul. I build production machine learning systems across
+computer vision, large language models, and forecasting, then take them from research to a deployed
+service that holds up under real use.
 
-Most of what I do is applied AI: train a model that solves a real problem, then put it behind an API
-with tests and CI so it runs in production instead of sitting in a notebook.
+Day to day that means training models that solve a concrete problem, from object detection on
+factory lines to local LLMs and calibrated forecasting, then putting them behind an API with tests
+and CI so they run in production instead of sitting in a notebook.
 
 ## Focus
 
 - Computer vision: object detection and industrial quality and defect inspection (YOLO trained from
   scratch), OCR, and face detection.
-- LLMs and RAG: local LLM deployments with retrieval augmented generation for domain specific
-  knowledge, and products built on LLM APIs.
-- Probabilistic ML and forecasting: calibrated, leakage safe models with proper backtesting and
-  uncertainty estimates.
-- Putting models in production: FastAPI and Streamlit services, packaging, and CI.
+- LLMs and RAG: local LLM serving and fine-tuning, with retrieval augmented generation pipelines
+  over domain-specific corpora.
+- Forecasting and tabular ML: gradient-boosted trees (XGBoost), sequence models (LSTM), and
+  calibrated ensembles, with proper backtesting and honest uncertainty estimates.
+- Production: FastAPI and Streamlit services, packaging, model versioning, and reproducible runs.
 
-## Projects
-
-I am moving my public work toward AI, and more will land here over time. The first one is up:
+## Selected work
 
 [World Cup Forecaster](https://github.com/uluutku/world-cup-forecaster) is a probabilistic football
 forecasting system that never looks at the future. It builds every feature in date order, blends
 three calibrated models (logistic regression, gradient boosting, and a Dixon-Coles goals model),
-backtests across five World Cups, and froze its 2026 predictions before kickoff. It is served
-through a Streamlit dashboard and a FastAPI API. Built with Python, scikit-learn, FastAPI, and
-Streamlit.
+backtests across five World Cups, and froze its 2026 predictions before kickoff. Served through a
+Streamlit dashboard and a FastAPI API. Built with Python, scikit-learn, FastAPI, and Streamlit.
 
 Most of my computer vision and LLM work is client and company work, so those repositories stay
 private.
 
 ## Stack
 
-Python, PyTorch, scikit-learn, YOLO, OpenCV, FastAPI, Streamlit. Full stack background with React
-and .NET for shipping AI into real applications.
+Python, PyTorch, scikit-learn, XGBoost, YOLO, OpenCV, FastAPI, Streamlit. Full stack background with
+React and .NET for shipping AI into real applications.
 
 ## Side projects
 
