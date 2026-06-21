@@ -1,46 +1,46 @@
 # Utku Ulu
 
-**AI Engineer at Bosphorus ISS, based in Istanbul.** I build and ship production machine-learning
-systems — computer vision, LLM/RAG applications, and probabilistic models — and take them the whole
-way from research to a deployed, served product.
+AI Engineer at BosphorusISS, based in Istanbul. I build production machine learning systems in
+computer vision, LLM and RAG applications, and probabilistic modeling, then take them from research
+to a deployed service.
 
-Most of my work is applied AI: train a model that solves a concrete problem, then wrap it in a real
-service with an API, tests, and CI so it actually runs in production.
+Most of what I do is applied AI: train a model that solves a real problem, then put it behind an API
+with tests and CI so it runs in production instead of sitting in a notebook.
 
 ## Focus
 
-- **Computer vision** — object detection and industrial quality/defect inspection (YOLO trained
-  from scratch), OCR, and face detection.
-- **LLMs & RAG** — local LLM deployments with retrieval-augmented generation for domain-specific
-  knowledge, and products built on top of LLM APIs.
-- **Probabilistic ML & forecasting** — calibrated, leakage-safe models with honest backtesting and
-  uncertainty quantification.
-- **From model to product** — FastAPI / Streamlit services, packaging, CI, and the unglamorous
-  parts that make a model usable by real people.
+- Computer vision: object detection and industrial quality and defect inspection (YOLO trained from
+  scratch), OCR, and face detection.
+- LLMs and RAG: local LLM deployments with retrieval augmented generation for domain specific
+  knowledge, and products built on LLM APIs.
+- Probabilistic ML and forecasting: calibrated, leakage safe models with proper backtesting and
+  uncertainty estimates.
+- Putting models in production: FastAPI and Streamlit services, packaging, and CI.
 
-## Selected work
+## Projects
 
-**[World Cup Forecaster](https://github.com/uluutku/world-cup-forecaster)** — a probabilistic
-football forecasting system that never sees the future. It builds every feature in date order,
-blends three calibrated models (logistic regression, gradient boosting, and a Dixon–Coles goals
-model), backtests across five World Cups, and froze its 2026 predictions before kickoff. Served
-through a Streamlit dashboard and a FastAPI API.
-*Python · scikit-learn · FastAPI · Streamlit*
+I am moving my public work toward AI, and more will land here over time. The first one is up:
 
-Alongside it: real-time **object detection and defect-inspection** pipelines, **local LLM + RAG**
-systems, and **OCR / face-detection** tools — much of it client and company work, so those repos
-stay private.
+[World Cup Forecaster](https://github.com/uluutku/world-cup-forecaster) is a probabilistic football
+forecasting system that never looks at the future. It builds every feature in date order, blends
+three calibrated models (logistic regression, gradient boosting, and a Dixon-Coles goals model),
+backtests across five World Cups, and froze its 2026 predictions before kickoff. It is served
+through a Streamlit dashboard and a FastAPI API. Built with Python, scikit-learn, FastAPI, and
+Streamlit.
+
+Most of my computer vision and LLM work is client and company work, so those repositories stay
+private.
 
 ## Stack
 
-Python · PyTorch · scikit-learn · YOLO · OpenCV · FastAPI · Streamlit — with a full-stack
-background (React, .NET) for shipping AI into real applications.
+Python, PyTorch, scikit-learn, YOLO, OpenCV, FastAPI, Streamlit. Full stack background with React
+and .NET for shipping AI into real applications.
 
 ## Side projects
 
-**[RabbitWiz](https://rabbitwiz.com)** — a small family of web and mobile apps I build under one
-brand to experiment with product design and ship end to end (one's live on the Play Store).
+RabbitWiz ([rabbitwiz.com](https://rabbitwiz.com)) is a small family of web and mobile apps I build
+under one brand, one of them live on the Play Store.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/utkuulu/) · [Email](mailto:utkuulu01@gmail.com) · [GitHub](https://github.com/uluutku) · [rabbitwiz.com](https://rabbitwiz.com)
+[LinkedIn](https://www.linkedin.com/in/utkuulu/), [Email](mailto:utkuulu01@gmail.com), [GitHub](https://github.com/uluutku), [rabbitwiz.com](https://rabbitwiz.com)
