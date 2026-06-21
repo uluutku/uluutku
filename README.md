@@ -21,10 +21,11 @@ concrete problem, then own everything around them: serving, retraining, the API,
 ## Selected work
 
 [World Cup Forecaster](https://github.com/uluutku/world-cup-forecaster) is a probabilistic football
-forecasting system that never looks at the future. It builds every feature in date order, blends
-three calibrated models (logistic regression, gradient boosting, and a Dixon-Coles goals model),
-backtests across five World Cups, and froze its 2026 predictions before kickoff. Served through a
-Streamlit dashboard and a FastAPI API. Built with Python, scikit-learn, FastAPI, and Streamlit.
+forecasting system built to avoid hindsight: every feature is computed in date order, so each
+prediction uses only what was known before that match. It blends three calibrated models (logistic
+regression, gradient boosting, and a Dixon-Coles goals model), backtests across five World Cups, and
+froze its 2026 predictions before kickoff. Served through a Streamlit dashboard and a FastAPI API.
+Built with Python, scikit-learn, FastAPI, and Streamlit.
 
 Most of my computer vision and LLM work is built at BosphorusISS, so those repositories are private.
 
