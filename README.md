@@ -42,4 +42,4 @@ is live on Google Play.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/utkuulu/), [Email](mailto:utkuulu01@gmail.com), [GitHub](https://github.com/uluutku), [rabbitwiz.com](https://rabbitwiz.com)
+[LinkedIn](https://www.linkedin.com/in/utkuulu/), [Email](mailto:utkuulu01@gmail.com)
